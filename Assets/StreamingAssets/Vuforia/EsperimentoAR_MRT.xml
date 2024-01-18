@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Assieme_AR_MRT_Poliba_3" size="0.297000 0.419862" />
+    <ImageTarget name="Assieme_AR_MRT_Poliba_2" size="0.420000 0.593744" />
+    <ImageTarget name="Assieme_AR_MRT_Poliba" size="0.420000 0.593744" />
+    <ImageTarget name="image_target" size="0.210000 0.297015" />
+    <ImageTarget name="Disegno_di_assieme_2" size="0.420000 0.593744" />
+    <ImageTarget name="Disegno_di_assieme" size="297.000000 419.861542" />
+  </Tracking>
+</QCARConfig>
